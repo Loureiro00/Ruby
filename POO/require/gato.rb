@@ -5,5 +5,6 @@ class Gato < Animal
 end
 
 gato = Gato.new
-gato.miar
+miar = gato.miar
 
+puts "o meu gato é foda, toda vez que saio ele"+ miar
