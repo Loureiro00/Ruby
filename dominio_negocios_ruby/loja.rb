@@ -5,6 +5,6 @@ class Loja
     end
 
     def comprar
-      puts "Voce comprou o produto #{@produto} pelo valor de #{@preco}"
+      puts "Voce comprou o produto :  #{@produto} pelo valor de  R$:#{@preco}"
     end
   end
